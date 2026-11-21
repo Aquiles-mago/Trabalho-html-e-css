@@ -1,7 +1,7 @@
 h1{
     text-align: center;
 }
-img{
+#logo{
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -14,4 +14,24 @@ body{
     background-image: url('img/fundo.jfif');
     background-repeat: no-repeat;
     background-size: cover;
+}
+a{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+}
+#nintendo{
+    
+    height: 100px;
+}
+#sony{
+    
+    height: 100px;
+}
+#microsoft{
+    
+    height: 100px;
+}
+img{
+    margin: 140px;
 }
