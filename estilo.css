@@ -1,5 +1,7 @@
 h1{
     text-align: center;
+    font-size: 50px;
+    font-family: "poppins", sans-serif, arial;
 }
 #logo{
     display: block;
@@ -35,3 +37,68 @@ a{
 img{
     margin: 140px;
 }
+#color_tv{
+    width: 600px;
+    height: 600px;
+}
+#nintendinho{
+    width: 600px;
+    height: 600px;
+}
+#game_boy{
+    width: 600px;
+    height: 600px;
+}
+#virtual_boy{
+    width: 600px;
+    height: 600px;
+}
+#nintendo_64{
+    width: 600px;
+    height: 600px;
+}
+#game_boy_color{
+    width: 600px;
+    height: 600px;
+}
+#game_cube2{
+    width: 350px;
+    height: 350px;
+}
+#nintendo_ds{
+    width: 600px;
+    height: 600px;
+}
+#nintendo_wii{
+    width: 600px;
+    height: 600px;
+}
+.nintendo{
+    background-color: red;
+    background-image: url('img/vermelho.jpg');
+}
+.microsoft{
+    background-color: green;
+    background-image: url('img/verde.png');
+}
+.sony{
+    background-color: blue;
+    background-image: url('img/azul.png');
+}
+#nintendo_3ds{
+    width: 600px;
+    height: 600px;
+}
+#nintendo_switch{
+    width: 600px;
+    height: 600px;
+}
+#nintendo_switch2{
+    width: 600px;
+    height: 600px;
+}
+#voltar{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+
